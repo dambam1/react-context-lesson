@@ -3,13 +3,14 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: 'AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14',
-  authDomain: 'crwn-db.firebaseapp.com',
-  databaseURL: 'https://crwn-db.firebaseio.com',
-  projectId: 'crwn-db',
-  storageBucket: 'crwn-db.appspot.com',
-  messagingSenderId: '850995411664',
-  appId: '1:850995411664:web:7ddc01d597846f65'
+  apiKey: "AIzaSyA_nwT4P_Z7bOycMkBgLkXjvSDILEblIGM",
+  authDomain: "udemy-ecommerce-db-7e990.firebaseapp.com",
+  databaseURL: "https://udemy-ecommerce-db-7e990.firebaseio.com",
+  projectId: "udemy-ecommerce-db-7e990",
+  storageBucket: "udemy-ecommerce-db-7e990.appspot.com",
+  messagingSenderId: "661815857443",
+  appId: "1:661815857443:web:4c36cbe8604fc347f87c96",
+  measurementId: "G-10T9QRE8H6"
 };
 
 firebase.initializeApp(config);
